@@ -1,7 +1,0 @@
-mydata = read.csv("/Users/janson/Desktop/AirBnB-San Francisco")
-getwd()
-setwd("/Users/janson/Desktop/AirBnB-San Francisco")
-getwd()
-mydata = read.csv("reviews.csv")
-ls()
-mydata
